@@ -11,7 +11,9 @@ A full-size DIY slingbow that uses 3D-printed parts and a wooden stick to create
 - 3D printed parts (see STL files)
 - Slingshot bands (flat, but round work too)
 - BBs or small projectiles
-- Screws, nuts, and small bolts M6X30-Or more
+- Screws, nuts, and small bolts:
+- NO STOCK: 4 M6X30 bolts and 2 M3X30
+- STOCK: 6 M6X30 bolts and 2 M3X30
 
  🛠️ Features
 
