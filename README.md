@@ -34,7 +34,7 @@ All STL files are located in the `STL/` folder. Print with PLA or PETG for stren
 4. Tie or clamp the slingshot bands to the release arms.
 5. Load BB, pull band, and fire!
 
-📸 See `images/` for step-by-step assembly pictures.
+📸 See `README` for step-by-step assembly pictures and a manual.
 
  📜 License & Credits
 
